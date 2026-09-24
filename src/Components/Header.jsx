@@ -33,7 +33,7 @@ function Header() {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="/slide3.jpg"
+          src="/myslide3.png"
           alt="Third slide"
         />
         <Carousel.Caption>
