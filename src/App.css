@@ -1,0 +1,101 @@
+.logo{
+  width: 50px;
+  margin: 20px;
+}
+
+svg{
+  width: 30px;
+  margin-right: 40px;
+  box-shadow: 100%;
+}
+.my-nav{
+  background-color: beige;
+  border-radius: 10px;
+  height: 90px;
+
+}
+.nav-Link{
+  color: rgb(171, 17, 43);
+}
+#active{
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  margin-left: 30px;
+}
+#active:hover{
+  color: pink;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+
+}
+.carousel img {
+  height: 550px;
+  object-fit: cover;
+}
+
+.carousel-caption {
+  text-align: left;
+  left: 9%;
+  bottom: 20%;
+}
+
+.carousel-caption button {
+  background-color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+.products {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+.button {
+  background-color: pink;
+  border: none;
+  color: white;
+}
+
+.button:hover {
+  background-color: rgb(210, 127, 196);
+  color: white;
+}
+.footer {
+  margin-top: 50px;
+  background-color: rgb(243, 243, 232);
+  border: none;
+  border-radius: 0;
+  text-align: center;
+}
+
+.footer .card-title {
+  font-size: 25px;
+}
+
+.footer .list-group-item {
+  background-color: transparent;
+  border: none;
+}
+
+.footer .card-link {
+  color: rgb(171, 17, 43);
+  text-decoration: none;
+  margin: 15px;
+}
+.myProduct{
+
+  margin-top: 40px;
+  font-size: 25px;
+  margin-left: 50px;
+  margin-bottom: 40px;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.active2:hover{
+  color: pink;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+
+}
+.active2{
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  margin-left: 30px;
+}
